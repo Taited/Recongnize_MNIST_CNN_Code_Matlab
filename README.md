@@ -1,4 +1,4 @@
-# MNIST-Dataset-with-the-method-of-CNN-in-Matlab
+# MNIST Dataset recognition with the method of CNN in Matlab
 This repository trained MNIST Dataset with pure matlab codes.
 
 Use CNN_Main as your main program. 
